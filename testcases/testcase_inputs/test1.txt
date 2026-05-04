@@ -1,0 +1,10 @@
+draw_card A 255 662
+draw_card B 255 427
+draw_card 4259 135 241
+draw_card 5115 135 204
+draw_card 5266 181 373
+draw_card 4002 181 217
+steal_card 10 10 
+battle 204 255
+battle 92 135 
+battle 141 181 

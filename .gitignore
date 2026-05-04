@@ -1,0 +1,8 @@
+.DS_Store
+*.class
+output/
+out/
+.idea/
+*.iml
+*.zip
+my_output.txt

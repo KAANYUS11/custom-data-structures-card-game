@@ -1,0 +1,3 @@
+draw_card A 26 23
+draw_card B 22 52
+battle 9 26 
